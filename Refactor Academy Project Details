@@ -1,0 +1,20 @@
+Ecommerce Customers Data Analysis:- 
+            Actually this is project for data analysis of customer and try to guess which platform is best for this ecommerce side. Using Pandas and Seaborn 
+            we are performing The EDA(Exploratory Data Analysis). In this we are using linear regression model so we get 98% final accuracy.
+            Conclusion of this project :-
+            -----------------------------
+            based on feature importance bar plot we can find that time spend on the app is more important as compare to time spend on web that conclude that we 
+            should focus more on app as campare to web but we should not abandon the web too.
+
+            ElasticNet with scaled feature work best as a model best on the r2_score.
+            R2 Score of this project is 0.9861
+            
+Mall Customer Segmentation Data Analysis:-
+            Problem Statement : You own the mall and want to understand the customers like who can be easily converge so that the sense can be given to marketing 
+            team and plan the strategy accordingly
+            
+            Conclusion of this project :-
+            -----------------------------
+            Using Pandas and Seaborn we are performing The EDA(Exploratory Data Analysis). Here we are using K-MEANS Clustering for this Mall Customer data. 
+            To select the number of clusters for this mall customer data we have to go to Performance metrics silhouette coefficient. After using the silhouette 
+            coefficient we finalized that the number of clusters is 5 and the silhouette coefficient score is 0.448631904516836.
